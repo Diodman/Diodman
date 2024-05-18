@@ -16,7 +16,9 @@
 - ⚡ Являюсь тимлидом институтской команды **"VirtualityLab".**
 
 <h3 align="left">Связаться со мной: </h3>
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Diodman)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='40'>](@Diodman)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/vk.svg' alt='vk' height='40'>](https://vk.com/tdaniilandreevich)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/mail-dot-ru.svg' alt='mail-dot-ru' height='40'>](daniil.11022004)  
 
+<h3 align="left">Владею навыками работы: </h3>
 <p align="left">
   <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
   <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
@@ -34,6 +36,10 @@
   <a href="https://unity.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original-wordmark.svg" alt="unity" width="40" height="40"/> </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=diodman&show_icons=true&locale=en&layout=compact " alt="Diodman" /></p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=Diodman)](https://github.com/ryo-ma/github-profile-trophy)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=diodman&show_icons=true&locale=en" alt="diodman" /></p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Diodman)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Diodman&show_icons=true)  
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=Diodman)  
