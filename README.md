@@ -16,7 +16,13 @@
 - ⚡ Являюсь тимлидом институтской команды **"VirtualityLab".**
 
 <h3 align="left">Связаться со мной: </h3>
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Diodman)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='40'>](@Diodman)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/vk.svg' alt='vk' height='40'>](https://vk.com/tdaniilandreevich)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/mail-dot-ru.svg' alt='mail-dot-ru' height='40'>](daniil.11022004)  
+
+<p align="left">
+  <a href="https://github.com/Diodman"> <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'></a>
+  <a href="https://t.me/Diodman"> <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='40'></a>
+  <a href="https://vk.com/tdaniilandreevich"> <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/vk.svg' alt='vk' height='40'></a>
+  <a href="mailto:daniil.11022004@mail.ru"> <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/mail-dot-ru.svg' alt='mail-dot-ru' height='40'></a>
+</p>
 
 <h3 align="left">Владею навыками работы: </h3>
 <p align="left">
@@ -42,5 +48,5 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Diodman&show_icons=true)  
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=Diodman)  
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Diodman)  
 ![snake gif](https://github.com/Diodman/Diodman/blob/output/github-contribution-grid-snake.gif)
