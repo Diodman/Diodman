@@ -9,7 +9,7 @@
 
 - 🌱 Завершил курсы переподготовки по **"Системы искусственного интеллекта"!**
 
-- 👨‍💻 Участвовал в хакатоне ["VR Camp".]
+- 👨‍💻 Участвовал в хакатоне "VR Camp".
 
 - 📫 Для связи со мной [![Telegram Badge](https://img.shields.io/badge/-Diodman-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Diodman)
 
@@ -34,6 +34,6 @@
   <a href="https://unity.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original-wordmark.svg" alt="unity" width="40" height="40"/> </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=diodman&show_icons=true&locale=en&layout=compact " alt="diodman" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=diodman&show_icons=true&locale=en&layout=compact " alt="Diodman" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=diodman&show_icons=true&locale=en" alt="diodman" /></p>
