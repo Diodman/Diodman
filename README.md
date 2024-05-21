@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=diodman&label=Profile%20views&color=0e75b6&style=flat" alt="diodman" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=diodman" alt="diodman" /></a> </p>
 
 - 🔭 Сейчас я работаю над кроссплатформенным приложением [CatApp](https://github.com/Diodman/CatApp.git)
 
@@ -49,4 +48,5 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Diodman&show_icons=true)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Diodman)  
-![snake gif](https://github.com/Diodman/Diodman/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/Diodman/Diodman/raw/output/github-contribution-grid-snake.gif)
+
