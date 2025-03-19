@@ -45,7 +45,3 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Diodman)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Diodman&show_icons=true)  
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Diodman)  
-![snake gif](https://github.com/Diodman/Diodman/raw/output/github-contribution-grid-snake.gif)
-
