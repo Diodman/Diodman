@@ -77,4 +77,5 @@
 
 ### 🐍 Змейка по коммитам:
 
-![snake gif](https://github.com/Diodman/Diodman/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://raw.githubusercontent.com/Diodman/Diodman/output/github-contribution-grid-snake.svg)
+
