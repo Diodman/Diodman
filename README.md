@@ -1,47 +1,80 @@
-<h1 align="center">Привет 👋, Меня зовут Daniil</h1>
-<h3 align="center">Я начинающий backend разработчик</h3>
+<h1 align="center">Привет 👋, я Daniil</h1>
+<h3 align="center">Начинающий backend-разработчик / Unity-инженер / AR-экспериментатор</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=diodman&label=Profile%20views&color=0e75b6&style=flat" alt="diodman" /> </p>
-
-
-- 🔭 Сейчас я работаю над кроссплатформенным приложением Toldan (приложение на react-native, позволяющие с помощью AR-камеры примерять одежду).
-
-- 🌱 Завершил курсы переподготовки по **"Системы искусственного интеллекта"!**
-
-- 👨‍💻 Участвовал в хакатоне "VR Camp".
-
-- 📫 Для связи со мной [![Telegram Badge](https://img.shields.io/badge/-Diodman-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Diodman)
-
-- ⚡ Являюсь тимлидом институтской команды **"VirtualityLab".**
-
-<h3 align="left">Связаться со мной: </h3>
-
-<p align="left">
-  <a href="https://github.com/Diodman"> <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'></a>
-  <a href="https://t.me/Diodman"> <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='40'></a>
-  <a href="https://vk.com/tdaniilandreevich"> <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/vk.svg' alt='vk' height='40'></a>
-  <a href="mailto:daniil.11022004@mail.ru"> <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/mail-dot-ru.svg' alt='mail-dot-ru' height='40'></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Diodman&label=Просмотры профиля&color=0e75b6&style=flat" alt="diodman" />
 </p>
 
-<h3 align="left">Владею навыками работы: </h3>
+---
+
+🎯 **Обо мне:**
+
+- 🔧 Люблю создавать кроссплатформенные приложения и игры  
+- 🧠 Увлекаюсь нейросетями, искусственным интеллектом и их применением в реальных задачах  
+- 💡 Сейчас работаю над **Toldan** — AR-приложением на React Native, позволяющим примерять одежду через камеру  
+- 👨‍💻 Участвовал в хакатоне **VR Camp**, создавал VR-шутер и работал над механиками взаимодействия  
+- 🧑‍🏫 Тимлид команды **VirtualityLab** при институте  
+
+📄 **Моё резюме:** [Открыть на hh.ru](https://hh.ru/resume/d8718bcfff0e76415c0039ed1f44567666535a)
+
+---
+
+### 🧠 Изучаю сейчас:
+- Микросервисы  
+- PostgreSQL
+- Архитектуру REST API и масштабирование backend  
+
+---
+
+### 🚀 Стек технологий:
+
 <p align="left">
-  <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
-  <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
-  <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-  <a href="https://cloud.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a>
-  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-  <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-  <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-  <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-  <a href="https://www.sqlite.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="sqlite" width="40" height="40"/> </a>
-  <a href="https://unity.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original-wordmark.svg" alt="unity" width="40" height="40"/> </a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original-wordmark.svg" alt="unity" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="sqlite" width="40" height="40"/>
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Diodman)](https://github.com/ryo-ma/github-profile-trophy)
+---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Diodman)](https://github.com/anuraghazra/github-readme-stats)
+### 📫 Связаться со мной:
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Diodman&show_icons=true)  
+<p align="left" style="background:#0e1117; padding:10px; border-radius:10px;">
+  <a href="https://github.com/Diodman" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/40/ffffff/github.png" alt="github" />
+  </a>
+  <a href="https://t.me/Diodman" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/40/ffffff/telegram-app.png" alt="telegram" />
+  </a>
+  <a href="https://vk.com/tdaniilandreevich" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/40/ffffff/vk-com.png" alt="vk" />
+  </a>
+  <a href="mailto:daniil.11022004@mail.ru" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/40/ffffff/email-open.png" alt="mail" />
+  </a>
+</p>
+
+---
+
+### 🏆 GitHub Трофеи:
+[![trophy](https://github-profile-trophy.vercel.app/?username=Diodman&theme=onedark&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+### 📊 Статистика:
+
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Diodman&layout=compact&hide=css,html&theme=tokyonight) | ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Diodman&show_icons=true&theme=tokyonight) |
+|:--:|:--:|
+
+---
+
+### 🐍 Змейка по коммитам:
+
+![snake gif](https://github.com/Diodman/Diodman/blob/output/github-contribution-grid-snake.svg)
