@@ -96,11 +96,13 @@ Backend-разработчик · Unity / VR / AR инженер · Люблю �
 
 ---
 
-### 📊 Статистика: | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Diodman&layout=compact&hide=css,html&theme=tokyonight) | ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Diodman&show_icons=true&theme=tokyonight) | |:--:|:--:|
+### 🏆 GitHub Трофеи: 
 
-[![trophy](https://github-profile-trophy.vercel.app/?Diodman=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Diodman&theme=onedark&column=4)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?Diodman=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+---
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?Diodman=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+### 📊 Статистика: 
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Diodman&layout=compact&hide=css,html&theme=tokyonight) | ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Diodman&show_icons=true&theme=tokyonight) | |:--:|:--:|
+
 
