@@ -87,18 +87,20 @@ Backend-разработчик · Unity / VR / AR инженер · Люблю �
 </p>
 
 ---
-## 🏆 GitHub Trophy
+
+## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Diodman&theme=onedark&no-frame=true&column=-1" />
+  <img src="https://streak-stats.demolab.com?user=Diodman&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 📊 GitHub Metrics
+### 📊 Статистика: | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Diodman&layout=compact&hide=css,html&theme=tokyonight) | ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Diodman&show_icons=true&theme=tokyonight) | |:--:|:--:|
 
-<p align="center">
-  <img src="./assets/metrics.svg" />
-</p>
+[![trophy](https://github-profile-trophy.vercel.app/?Diodman=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?Diodman=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?Diodman=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
