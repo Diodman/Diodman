@@ -96,13 +96,14 @@ Backend-разработчик · Unity / VR / AR инженер · Люблю �
 
 ---
 
-### 🏆 GitHub Трофеи: 
-
+### 🏆 GitHub Трофеи:
 [![trophy](https://github-profile-trophy.vercel.app/?username=Diodman&theme=onedark&column=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
-### 📊 Статистика: 
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Diodman&layout=compact&hide=css,html&theme=tokyonight) | ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Diodman&show_icons=true&theme=tokyonight) | |:--:|:--:|
+### 📊 Статистика:
+
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Diodman&layout=compact&hide=css,html&theme=tokyonight) | ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Diodman&show_icons=true&theme=tokyonight) |
+|:--:|:--:|
 
 
