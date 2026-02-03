@@ -1,76 +1,104 @@
 <h1 align="center">Привет 👋, я Daniil</h1>
-<h3 align="center">Начинающий backend-разработчик / Unity-инженер / AR-экспериментатор</h3>
+<h3 align="center">
+Backend-разработчик · Unity / VR / AR инженер · Люблю сложные системы
+</h3>
+
+<p align="center">
+  <em>
+    Делаю бэкенд, игры и XR-проекты · интересуюсь архитектурой, масштабированием и реальными продуктами
+  </em>
+</p>
 
 ---
 
-🎯 **Обо мне:**
+## 🚀 Коротко обо мне
 
-- 🔧 Люблю создавать кроссплатформенные приложения и игры  
-- 🧠 Увлекаюсь нейросетями, искусственным интеллектом и их применением в реальных задачах  
-- 💡 Сейчас работаю над **Toldan** — AR-приложением на React Native, позволяющим примерять одежду через камеру  
-- 👨‍💻 Участвовал в хакатоне **VR Camp**, создавал VR-шутер и работал над механиками взаимодействия  
+- 👨‍💻 Backend-разработчик с опытом Python / REST / БД  
+- 🎮 Unity-инженер (VR / AR / геймплей, взаимодействия, механики)  
+- 🧠 Интересуюсь **AI, нейросетями и их прикладным использованием**  
+- 🧩 Люблю архитектуру: микросервисы, состояние, очереди, масштабирование  
 - 🧑‍🏫 Тимлид команды **VirtualityLab** при институте  
 
+---
+
+## 💡 Проекты и опыт
+
+### 🧠 **Toldan**
+> AR-приложение для примерки одежды через камеру  
+**Стек:** React Native · AR · Mobile  
+- Работа с камерой и AR-логикой  
+- Архитектура клиентского приложения  
+- Фокус на реальном пользовательском сценарии
+
+### 🎮 **VR Camp Hackathon**
+> Командная разработка VR-шутера  
+- Проектирование игровых механик  
+- Система взаимодействия в VR  
+- Работа в команде под дедлайны
+
+---
+
+## 📚 Сейчас изучаю
+
+- ⚙️ Микросервисную архитектуру  
+- 🐘 PostgreSQL (оптимизация, связи, индексы)  
+- 🌐 REST API, масштабирование backend  
+- 🔄 Redis, очереди, кэширование  
+
+---
+
+## 🧰 Технологический стек
+
+### Backend / Systems
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
+</p>
+
+### GameDev / XR
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original-wordmark.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40"/>
+</p>
+
+### Languages
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
+</p>
+
+---
+
+## 📫 Связь со мной
+
 <p align="left">
-  <a href="https://hh.ru/resume/d8718bcfff0e76415c0039ed1f44567666535a" target="_blank">
-    <img src="https://img.shields.io/badge/Посмотреть%20резюме-hh.ru-blue?style=for-the-badge&logo=hh.ru&logoColor=white" />
+  <a href="https://t.me/Diodman">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
   </a>
-</p>
-
-
----
-
-### 🧠 Изучаю сейчас:
-- Микросервисы  
-- PostgreSQL 
-- Архитектуру REST API и масштабирование backend  
-
----
-
-### 🚀 Стек технологий:
-
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original-wordmark.svg" alt="unity" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="sqlite" width="40" height="40"/>
-</p>
-
----
-
-### 📫 Связаться со мной:
-
-<p align="left" style="background:#0e1117; padding:10px; border-radius:10px;">
-  <a href="https://github.com/Diodman" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/40/ffffff/github.png" alt="github" />
+  <a href="mailto:daniil.11022004@mail.ru">
+    <img src="https://img.shields.io/badge/Email-444?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://t.me/Diodman" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/40/ffffff/telegram-app.png" alt="telegram" />
-  </a>
-  <a href="https://vk.com/tdaniilandreevich" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/40/ffffff/vk-com.png" alt="vk" />
-  </a>
-  <a href="mailto:daniil.11022004@mail.ru" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/40/ffffff/email-open.png" alt="mail" />
+  <a href="https://hh.ru/resume/d8718bcfff0e76415c0039ed1f44567666535a">
+    <img src="https://img.shields.io/badge/Resume-hh.ru-blue?style=for-the-badge"/>
   </a>
 </p>
 
 ---
+## 🏆 GitHub Trophy
 
-### 🏆 GitHub Трофеи:
-[![trophy](https://github-profile-trophy.vercel.app/?username=Diodman&theme=onedark&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Diodman&theme=onedark&no-frame=true&column=-1" />
+</p>
 
 ---
 
-### 📊 Статистика:
+## 📊 GitHub Metrics
 
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Diodman&layout=compact&hide=css,html&theme=tokyonight) | ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Diodman&show_icons=true&theme=tokyonight) |
-|:--:|:--:|
+<p align="center">
+  <img src="./assets/metrics.svg" />
+</p>
+
 
