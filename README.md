@@ -78,8 +78,11 @@ Backend-разработчик · Unity / VR / AR инженер · Люблю �
   <a href="https://t.me/Diodman">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
   </a>
-  <a href="mailto:daniil.11022004@mail.ru">
-    <img src="https://img.shields.io/badge/Email-444?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <a href="https://vk.com/tdaniilandreevich" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/40/ffffff/vk-com.png" alt="vk" />
+  </a>
+  <a href="mailto:daniil.11022004@mail.ru" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/40/ffffff/email-open.png" alt="mail" />
   </a>
   <a href="https://hh.ru/resume/d8718bcfff0e76415c0039ed1f44567666535a">
     <img src="https://img.shields.io/badge/Resume-hh.ru-blue?style=for-the-badge"/>
